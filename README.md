@@ -37,6 +37,7 @@
 
 ### 💻 Featured Projects
 * **[Coding Gurukul Platform](https://github.com/Dead-z3r0):** Full-stack educational platform built with React, Node.js, Express, MongoDB, and Zustand to serve 50+ students with 100% production uptime.
+*  **[NCD-Simulation](https://ncd-simulation.vercel.app/):** High-concurrency NCD (Non-Convertible Debentures) IPO bond allocation engine engineered with atomic CAS inventory control, dynamic token bucket rate limiting, SEBI-aligned fair retail queueing, and sub millisecond audit verification.
 * **[Zero-Trust AI Data Sanitizer](https://github.com/Dead-z3r0):** Client-side DLP engine utilizing Hugging Face BERT, WebGPU, and Web Workers for 100% offline PII redaction at 60 FPS.
 * **[LeetCode Problem Tracker Extension](https://github.com/Dead-z3r0):** Chrome extension built with JavaScript and MutationObserver to inject custom tracking and quick-launch UI directly into LeetCode.
 
